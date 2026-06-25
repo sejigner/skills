@@ -1,0 +1,4 @@
+interface:
+  display_name: "Probe"
+  short_description: "Clarify intent before acting"
+  default_prompt: "Use $probe to understand my request, surface ambiguities, and ask focused follow-up questions before proceeding."
